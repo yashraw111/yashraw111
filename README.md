@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm yash panchal</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashraw111" alt="yashraw111" /></a> </p>
 
 - 🌱 I’m currently learning **full stack development**
 
