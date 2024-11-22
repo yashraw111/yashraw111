@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **full stack development**
 
-- 💬 Ask me about **react,javascript**
+- 💬 Ask me about **html,css,bootstrap,react,redux,javascript**
 
 - 📫 How to reach me **yashraw111@gmail.com**
 
