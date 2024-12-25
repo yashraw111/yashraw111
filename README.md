@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yash panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash panchal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yash panchal" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://drive.google.com/file/d/1oerPeVOANWZ3VysUjT3oOGI_u1uP01Rc/view?usp=drive_link)" alt="yash panchal" height="30" width="40" /></a>
 <!-- <a href="https://fb.com/yash panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yash panchal" height="30" width="40" /></a> -->
 </p>
 
