@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yashraw111@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1Bp-cr3vvYZZrSC7Ug1HaCBHB-uMZYQ82/view?usp=sharing]([https://drive.google.com/file/d/1Bp-cr3vvYZZrSC7Ug1HaCBHB-uMZYQ82/view?usp=sharing](https://drive.google.com/file/d/1DUVUnD2o6mFZwQW5CEN_59dKMWuQLgkR/view?usp=sharing))
+- 📄 My Resume [https://drive.google.com/file/d/1Bp-cr3vvYZZrSC7Ug1HaCBHB-uMZYQ82/view?usp=sharing]([https://drive.google.com/file/d/1Bp-cr3vvYZZrSC7Ug1HaCBHB-uMZYQ82/view?usp=sharing])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
