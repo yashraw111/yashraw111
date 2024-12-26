@@ -7,11 +7,10 @@
 
 - 📫 How to reach me **yashraw111@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1Bp-cr3vvYZZrSC7Ug1HaCBHB-uMZYQ82/view?usp=sharing]([https://drive.google.com/file/d/1Bp-cr3vvYZZrSC7Ug1HaCBHB-uMZYQ82/view?usp=sharing])
-
+- 📄 Know about my experiences<a href="[https://linkedin.com/in/yash panchal](https://drive.google.com/file/d/1DUVUnD2o6mFZwQW5CEN_59dKMWuQLgkR/view?usp=drive_link)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://drive.google.com/file/d/1oerPeVOANWZ3VysUjT3oOGI_u1uP01Rc/view?usp=drive_link)" alt="yash panchal" Dowload /></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yash-panchal111/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw3VnbaajBzpYtcKRbkYCvws&ust=1735325716356000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjDzZiOxooDFQAAAAAdAAAAABAE" alt="yash panchal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yash panchal" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://drive.google.com/file/d/1oerPeVOANWZ3VysUjT3oOGI_u1uP01Rc/view?usp=drive_link)" alt="yash panchal" height="30" width="40" /></a>
 <!-- <a href="https://fb.com/yash panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yash panchal" height="30" width="40" /></a> -->
 </p>
 
