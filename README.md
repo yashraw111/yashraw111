@@ -42,10 +42,7 @@
 
 ---
 
-## 📈 GitHub Stats:
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
----
 
 ## 📫 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/yash-panchal-6985312b0/))
